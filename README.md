@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sntg0p.sntg0p)
 
 </p>
-<div size='20px'> Hi! My name is Santiago P.. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Santiago Presa. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -12,13 +12,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [nothing]
 
 - 🌱 I’m currently learning Java, Python, C#... 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on  [nothing]
 
-- 💬 Talk to me about  
+- 💬 Talk to me about  [nothing]
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/sntg0p?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
