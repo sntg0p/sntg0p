@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://github.com/sntg0p/sntg0p/blob/main/assets/76710323/951d472b-5e3d-4456-8415-bf3ec9ef2c3e/github-header-image.png" width="1000" height="200">
-</p>
-" width="1000" height="200">
-</p>
 
 <h1> Hello Fellow! < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
