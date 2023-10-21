@@ -1,4 +1,8 @@
-[github-header-image (2)](https://github.com/sntg0p/sntg0p/assets/76710323/951d472b-5e3d-4456-8415-bf3ec9ef2c3e)
+
+<p align="center">
+  <img src="[github-header-image (2)](https://github.com/sntg0p/sntg0p/assets/76710323/951d472b-5e3d-4456-8415-bf3ec9ef2c3e)" width="1000" height="200">
+</p>
+
 <h1> Hello Fellow! < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
