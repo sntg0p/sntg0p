@@ -1,4 +1,5 @@
-![Header](./header-github.png)
+![Header](![header-github](https://github.com/sntg0p/sntg0p/assets/76710323/f10c6961-a16a-4d11-8484-84cb5bb7618e)
+)
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
