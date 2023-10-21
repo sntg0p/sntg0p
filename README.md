@@ -1,9 +1,6 @@
-![Header](![header-github](https://github.com/sntg0p/sntg0p/assets/76710323/f10c6961-a16a-4d11-8484-84cb5bb7618e)
-)
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+[github-header-image (2)](https://github.com/sntg0p/sntg0p/assets/76710323/951d472b-5e3d-4456-8415-bf3ec9ef2c3e)
+<h1> Hello Fellow! < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sntg0p.sntg0p)
 
 </p>
 <div size='20px'> Hi! My name is Santiago Presa. Thank You for taking the time to view my GitHub Profile :smile: 
